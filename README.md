@@ -32,3 +32,5 @@ Part 1 WeatherPy requierd creating a Python script to visualize the weather of o
 
 Part 2 VacationPy used Geoapify API and the data from Part 1 to create map visualizations. The map showed the humidity in each of the cities from part one. Then, I narrowed the DataFrame down to find my personal ideal weather conditions, built a second DataFrame to find the nearest hotels to the cities in the narrowed DataFrame, and added the hotel information to each plotted city.
 
+Part 1 My tutor helped me understand the building of the API url by taking me through the documentation.
+My coding and plots were checked and compaired to examples by my TA.
